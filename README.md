@@ -29,7 +29,11 @@ systemd based systems
 sudo systemctl enable tor
 sudo systemctl enable postgresql
 ```
-step 5 run the bl4ck-wid0w.sh file
+step 5 install the requirements via pip
 ```bash
-./bl4ck-wid0w.sh
+pip install -r requirements.txt --break-system-packages
+```
+step 6 run the bl4ck wid0w file
+```bash
+./bl4ck-wid0w
 ```
