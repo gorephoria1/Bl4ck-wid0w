@@ -7,7 +7,7 @@ added a new mascot called wilson the black widow
 
 spectrumV2 does not belong to me
 
-<img width="1920" height="1031" alt="idk" src="https://github.com/user-attachments/assets/05ddde18-ff5d-4338-a991-4a1c9064c207" />
+<img width="1920" height="1080" alt="Screenshot_2026-11-07_06-28-40" src="https://github.com/user-attachments/assets/cb2735b5-9298-4f7f-8c0a-b8c6af56d271" />
 Bl4ck-wid0w is a fork of cyberdoor on github so it has the same features but 2 new things one of them is a tribute to something.........
 anyways to install Bl4ck-wid0w here are the instructions below
 
@@ -42,3 +42,12 @@ step 6 run the bl4ck wid0w file
 ```bash
 ./bl4ck-wid0w
 ```
+not a step but wilson the black widow pic
+<img width="300" height="207" alt="bl4ck-wid0w-mascot" src="https://github.com/user-attachments/assets/f36f03ff-a6f3-4620-aec1-9359e20b97e5" />
+
+
+
+
+
+
+
