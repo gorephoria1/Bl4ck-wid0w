@@ -10,9 +10,9 @@ step 1 git clone
 ```bash
 git clone https://github.com/gorephoria1/Bl4ck-wid0w.git
 ```
-step 2 chmod the bl4ck-wid0w.sh file
+step 2 chmod the bl4ck-wid0w file
 ```bash
-chmod +x bl4ck-wid0w.sh
+chmod +x bl4ck-wid0w
 ```
 step 3 install the dependencys 
 ```bash
